@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" role="img" aria-label="Cuva.ai logo">
+  <g fill="#000000">
+    <circle cx="28" cy="50" r="3"/>
+    <circle cx="32" cy="38" r="3"/>
+    <circle cx="40" cy="28" r="3"/>
+    <circle cx="52" cy="22" r="3"/>
+    <circle cx="64" cy="22" r="3"/>
+    <circle cx="76" cy="28" r="3"/>
+    <circle cx="84" cy="38" r="3"/>
+    <circle cx="88" cy="50" r="3"/>
+    <circle cx="84" cy="62" r="3"/>
+    <circle cx="76" cy="72" r="3"/>
+    <circle cx="64" cy="78" r="3"/>
+    <circle cx="52" cy="78" r="3"/>
+    <circle cx="40" cy="72" r="3"/>
+    <circle cx="32" cy="62" r="3"/>
+  </g>
+
+  <text x="96" y="63" font-family="Arial, sans-serif" font-size="56" font-weight="700" fill="#000000" letter-spacing="1">
+    CUVA AI
+  </text>
+</svg>

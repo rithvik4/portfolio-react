@@ -1,1 +1,270 @@
-{"data":[{"id":"R_kgDOSQq-Aw","name":"security-app","createdAt":"2026-04-30T09:25:41Z","url":"https://github.com/rithvik4/security-app","description":"A smart security management application for residential societies and gated communities, enabling visitor tracking, resident management, security monitoring, and streamlined access control through an intuitive interface.","isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOMa03Nw","name":"doctor-appointment-system","createdAt":"2024-07-25T03:52:30Z","url":"https://github.com/rithvik4/doctor-appointment-system","description":"A simple web project designed for e-channeling using HTML, CSS, JavaScript, and a backend. The system facilitates online appointment requests for clients or patients of medical establishments.","isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"R_kgDOLjrkqg","name":"react-password-generator","createdAt":"2024-03-21T17:55:48Z","url":"https://github.com/rithvik4/react-password-generator","description":"The React Password Generator is a web application built using React, designed to assist users in creating strong and secure passwords. It offers a simple interface where users can customize password parameters including length and character types.","isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOLYjKHw","name":"Pokedex-Web-App","createdAt":"2024-02-27T07:30:00Z","url":"https://github.com/rithvik4/Pokedex-Web-App","description":"A simple Pokedex web application built with React and PokeAPI. Browse and explore detailed information about Pokemon, including their stats. Features a clean and intuitive user interface.","isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOLaGgiA","name":"fan-wiki-app","createdAt":"2024-03-01T07:12:59Z","url":"https://github.com/rithvik4/fan-wiki-app","description":"Futurama Fan Wiki is a dynamic React app that brings your favorite Futurama characters to life. Explore a comprehensive list of characters, click to reveal detailed information, and enjoy a sleek design with cool fade-in animations.","isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOK9a7gg","name":"login-authentication","createdAt":"2023-12-25T06:05:38Z","url":"https://github.com/rithvik4/login-authentication","description":"A minimalistic login authentication system implemented in Node.js, Express, and MongoDB. Users can securely register, log in, and access a protected page. Passwords are hashed using bcrypt for enhanced security.","isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOMK9LhQ","name":"grade_tracker.py","createdAt":"2024-06-18T12:19:23Z","url":"https://github.com/rithvik4/grade_tracker.py","description":"A simple Python program to track and manage student grades. The program allows the user to input grades for different subjects or assignments, calculate the average grade, and display the overall grade along with the letter grade and GPA.","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"R_kgDOKpbwnA","name":"To-Do-List","createdAt":"2023-11-05T06:09:55Z","url":"https://github.com/rithvik4/To-Do-List","description":"The To-Do Web App is a simple and intuitive task management application designed to help users organize their daily tasks efficiently.","isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"R_kgDOKtT9fg","name":"my-portfolio","createdAt":"2023-11-14T12:29:58Z","url":"https://github.com/rithvik4/my-portfolio","description":"Personal portfolio website showcasing skills, projects, and experiences through a clean and interactive interface built with HTML, CSS, and JavaScript.","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOK9eYDg","name":"advance-calculator","createdAt":"2023-12-25T10:15:14Z","url":"https://github.com/rithvik4/advance-calculator","description":"A user-friendly web-based calculator featuring basic arithmetic operations along with advanced functionalities such as square root calculation, percentage computation, and support for parentheses.","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},"name":"Network-visualization","createdAt":"2020-09-21T08:49:13Z","url":"https://github.com/Dantusaikamal/Network-visualization","description":"This repository contains my graphic visualization project that I've submitted as my final project for Data visualization course by University of Illinois. Feel free to use this visualization. It would be helpful if you provide credits to me :)","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"MDEwOlJlcG9zaXRvcnkyODQwOTE1MDk=","name":"eswecha-os","createdAt":"2020-07-31T17:20:28Z","url":"https://github.com/Dantusaikamal/eswecha-os","description":"A quintessential Operating System for every Engineer which comes pre-loaded with all the softwares an Engineer of any domain would require.","isFork":false,"languages":[]},{"id":"MDEwOlJlcG9zaXRvcnkyODMyMzEwNDM=","name":"Desktop-Assistant","createdAt":"2020-07-28T14:08:25Z","url":"https://github.com/Dantusaikamal/Desktop-Assistant","description":"I've created a desktop assistant and named it J.A.R.V.I.S which makes our day to day task much easier. It is capable of doing various tasks and I'll be adding more functions soon :)","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkzMDAyNjg0ODg=","name":"Basic-banking-system","createdAt":"2020-10-01T12:18:19Z","url":"https://github.com/Dantusaikamal/Basic-banking-system","description":"Basic banking application made with PHP and MySQL and hosted in Heroku with JawsDB which allows you to transfer amount in pre-existing users.   ","isFork":false,"languages":[{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNjU2NzIyMzc=","name":"CovidAssistance","createdAt":"2020-05-20T19:51:29Z","url":"https://github.com/Dantusaikamal/CovidAssistance","description":"A chatbot developed by Team Introspectors which is capable of answering over 40 queries regarding Covid-19!","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNzg1NjUxMjQ=","name":"Weather-translation","createdAt":"2020-07-10T07:11:59Z","url":"https://github.com/Dantusaikamal/Weather-translation","description":"A website to demonstrate our Farmer Assistance chatbot which is capable of assisting farmers in various ways. We call it the farming revolution. ","isFork":false,"languages":[{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"HTML","iconifyClass":"logos-html-5"}]}]}
+{
+  "data": [
+    {
+      "id": "R_kgDOSQq-Aw",
+      "name": "security-app",
+      "createdAt": "2026-04-30T09:25:41Z",
+      "url": "https://github.com/rithvik4/security-app",
+      "description": "A smart security management application for residential societies and gated communities, enabling visitor tracking, resident management, security monitoring, and streamlined access control through an intuitive interface.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOMa03Nw",
+      "name": "doctor-appointment-system",
+      "createdAt": "2024-07-25T03:52:30Z",
+      "url": "https://github.com/rithvik4/doctor-appointment-system",
+      "description": "A simple web project designed for e-channeling using HTML, CSS, JavaScript, and a backend. The system facilitates online appointment requests for clients or patients of medical establishments.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLjrkqg",
+      "name": "react-password-generator",
+      "createdAt": "2024-03-21T17:55:48Z",
+      "url": "https://github.com/rithvik4/react-password-generator",
+      "description": "The React Password Generator is a web application built using React, designed to assist users in creating strong and secure passwords. It offers a simple interface where users can customize password parameters including length and character types.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLYjKHw",
+      "name": "Pokedex-Web-App",
+      "createdAt": "2024-02-27T07:30:00Z",
+      "url": "https://github.com/rithvik4/Pokedex-Web-App",
+      "description": "A simple Pokedex web application built with React and PokeAPI. Browse and explore detailed information about Pokemon, including their stats. Features a clean and intuitive user interface.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLaGgiA",
+      "name": "fan-wiki-app",
+      "createdAt": "2024-03-01T07:12:59Z",
+      "url": "https://github.com/rithvik4/fan-wiki-app",
+      "description": "Futurama Fan Wiki is a dynamic React app that brings your favorite Futurama characters to life. Explore a comprehensive list of characters, click to reveal detailed information, and enjoy a sleek design with cool fade-in animations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOK9a7gg",
+      "name": "login-authentication",
+      "createdAt": "2023-12-25T06:05:38Z",
+      "url": "https://github.com/rithvik4/login-authentication",
+      "description": "A minimalistic login authentication system implemented in Node.js, Express, and MongoDB. Users can securely register, log in, and access a protected page. Passwords are hashed using bcrypt for enhanced security.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOMK9LhQ",
+      "name": "grade_tracker.py",
+      "createdAt": "2024-06-18T12:19:23Z",
+      "url": "https://github.com/rithvik4/grade_tracker.py",
+      "description": "A simple Python program to track and manage student grades. The program allows the user to input grades for different subjects or assignments, calculate the average grade, and display the overall grade along with the letter grade and GPA.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOKpbwnA",
+      "name": "To-Do-List",
+      "createdAt": "2023-11-05T06:09:55Z",
+      "url": "https://github.com/rithvik4/To-Do-List",
+      "description": "The To-Do Web App is a simple and intuitive task management application designed to help users organize their daily tasks efficiently.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOKtT9fg",
+      "name": "my-portfolio",
+      "createdAt": "2023-11-14T12:29:58Z",
+      "url": "https://github.com/rithvik4/my-portfolio",
+      "description": "Personal portfolio website showcasing skills, projects, and experiences through a clean and interactive interface built with HTML, CSS, and JavaScript.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOK9eYDg",
+      "name": "advance-calculator",
+      "createdAt": "2023-12-25T10:15:14Z",
+      "url": "https://github.com/rithvik4/advance-calculator",
+      "description": "A user-friendly web-based calculator featuring basic arithmetic operations along with advanced functionalities such as square root calculation, percentage computation, and support for parentheses.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "name": "Network-visualization",
+      "createdAt": "2020-09-21T08:49:13Z",
+      "url": "https://github.com/Dantusaikamal/Network-visualization",
+      "description": "This repository contains my graphic visualization project that I've submitted as my final project for Data visualization course by University of Illinois. Feel free to use this visualization. It would be helpful if you provide credits to me :)",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyODQwOTE1MDk=",
+      "name": "eswecha-os",
+      "createdAt": "2020-07-31T17:20:28Z",
+      "url": "https://github.com/Dantusaikamal/eswecha-os",
+      "description": "A quintessential Operating System for every Engineer which comes pre-loaded with all the softwares an Engineer of any domain would require.",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyODMyMzEwNDM=",
+      "name": "Desktop-Assistant",
+      "createdAt": "2020-07-28T14:08:25Z",
+      "url": "https://github.com/Dantusaikamal/Desktop-Assistant",
+      "description": "I've created a desktop assistant and named it J.A.R.V.I.S which makes our day to day task much easier. It is capable of doing various tasks and I'll be adding more functions soon :)",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMDAyNjg0ODg=",
+      "name": "Basic-banking-system",
+      "createdAt": "2020-10-01T12:18:19Z",
+      "url": "https://github.com/Dantusaikamal/Basic-banking-system",
+      "description": "Basic banking application made with PHP and MySQL and hosted in Heroku with JawsDB which allows you to transfer amount in pre-existing users.   ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjU2NzIyMzc=",
+      "name": "CovidAssistance",
+      "createdAt": "2020-05-20T19:51:29Z",
+      "url": "https://github.com/Dantusaikamal/CovidAssistance",
+      "description": "A chatbot developed by Team Introspectors which is capable of answering over 40 queries regarding Covid-19!",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzg1NjUxMjQ=",
+      "name": "Weather-translation",
+      "createdAt": "2020-07-10T07:11:59Z",
+      "url": "https://github.com/Dantusaikamal/Weather-translation",
+      "description": "A website to demonstrate our Farmer Assistance chatbot which is capable of assisting farmers in various ways. We call it the farming revolution. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    }
+  ]
+}

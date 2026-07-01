@@ -108,7 +108,7 @@ const skills = {
         },
         {
           skillName: "NodeJs",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
           style: {
             color: "#339933",
           },
@@ -424,12 +424,24 @@ const experience = {
       experiences: [
         {
           title: "Full Stack Developer",
-          company: "Kopensoft Solutions",
+          company: "Kopen Software Solutions Pvt Ltd",
           company_url: "",
-          logo_path: "",
+          logo_path: "kopensoft_logo.svg",
           duration: "June 2025 - PRESENT",
           location: "Hyderabad, Telangana",
-          description: "I am working at KopenSoft Solutions",
+          description:
+            "Working as a Full Stack Developer on production-ready web applications, where I build responsive frontend features, develop and integrate backend APIs, optimize performance, and collaborate with cross-functional teams to deliver reliable releases on time.",
+          color: "#0879bf",
+        },
+        {
+          title: "Freelance - React and Node Developer",
+          company: "Cuva.ai",
+          company_url: "",
+          logo_path: "cuva_logo.svg",
+          duration: "Nov 2025 - PRESENT",
+          location: "Remote",
+          description:
+            "Building and maintaining scalable web features using React and Node.js, with a focus on API integration, clean architecture, and reliable user-facing experiences.",
           color: "#0879bf",
         },
       ],
@@ -437,6 +449,17 @@ const experience = {
     {
       title: "Internships",
       experiences: [
+        {
+          title: "Full Stack Developer Intern",
+          company: "Kopen Software Solutions Pvt Ltd",
+          company_url: "",
+          logo_path: "kopensoft_logo.svg",
+          duration: "Jan 2025 - May 2025",
+          location: "Hyderabad, Telangana",
+          description:
+            "Worked on full stack web development tasks including responsive frontend implementation, backend API integration, and feature delivery across client-focused modules.",
+          color: "#0879bf",
+        },
         {
           title: "Lead, Google DSC",
           company: "Google",
@@ -548,19 +571,19 @@ const projects = {
     },
     {
       id: "3",
-      name: "Money Tracker",
-      url: "https://github.com/rithvik4/money-tracker",
+      name: "Movetrack",
+      url: "https://github.com/rithvik4/MoveTrack",
       description:
-        "A comprehensive financial tracking application to manage personal expenses and income with visualization features.",
-      languages: ["React", "JavaScript", "CSS"],
+        "A movement tracking application focused on monitoring activity and presenting actionable insights through a clean interface.",
+      languages: ["React", "JavaScript", "Tracking"],
     },
     {
       id: "4",
-      name: "React Password Generator",
-      url: "https://github.com/rithvik4/react-password-generator",
+      name: "Security App",
+      url: "https://github.com/rithvik4/security-app",
       description:
-        "A secure password generator built with React that creates strong, customizable passwords with various options.",
-      languages: ["React", "JavaScript", "CSS"],
+        "A security-focused application that helps users manage and apply core protection features for safer usage.",
+      languages: ["JavaScript", "Security", "Web App"],
     },
     {
       id: "5",
@@ -578,15 +601,15 @@ const projects = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "photo.jpeg",
+    profile_image_path: "photo.png",
     description:
       "I am available on almost every social media. You can message me, I will try to reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "Personal Blog",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://instagram.com/rithvikkk__/",
+      "Welcome to my little corner of the internet where I capture what I see and write what I feel. TypedandTaken blends photography and reflective writings into one creative journey.",
+    link: "https://typedandtaken.vercel.app/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
