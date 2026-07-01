@@ -467,11 +467,12 @@ const experience = {
           logo_path: "google_logo.png",
           duration: "August 2021 - July 2022",
           location: "Hyderabad, Telangana",
-          description:
-            "• Conducted hands-on workshops and sessions on Web Development, Docker, Kotlin, Kubernetes, Cloud, Git. \n\
-             • Part of 250 students from India that were selected as Google Developer Students Clubs lead in 2021. \n\
-             • Established a technical community in the college and trained multiple people to lead the community. \n\
-             • Built various open-sourced projects and encouraged various students to contribute to the projects.",
+          description: [
+            "• Conducted hands-on workshops and sessions on Web Development, Docker, Kotlin, Kubernetes, Cloud, Git.",
+            "• Part of 250 students from India that were selected as Google Developer Students Clubs lead in 2021.",
+            "• Established a technical community in the college and trained multiple people to lead the community.",
+            "• Built various open-sourced projects and encouraged various students to contribute to the projects.",
+          ],
           color: "#4285F4",
         },
 
