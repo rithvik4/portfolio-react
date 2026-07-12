@@ -9,7 +9,6 @@ This repository contains a complete, multi-section portfolio app with pages for:
 - Education
 - Experience
 - Projects
-- Open source stats
 - Contact
 
 ## Tech Stack
