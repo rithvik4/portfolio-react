@@ -1,4 +1,4 @@
-# Portfolio React
+# Portfolio
 
 A personal portfolio website built with React and styled components.
 
